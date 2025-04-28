@@ -1,6 +1,6 @@
-# Best Beginner-Friendly GitHub Repositories (A-Z)
+# Best for Beginners
 
-A curated list of 75 beginner-friendly GitHub repositories to help you learn coding, build projects, and contribute to open source. Organized alphabetically for easy navigation.
+A curated collection of beginner-friendly open-source projects to help new developers learn coding and contribute to real-world projects. Inspired by Awesome for Beginners, this repository lists projects with `good first issue` labels, clear documentation, and simple tasks. Created by Kanishk Raj (ProgrammerKR), founder of ProXentix.
 
 ## A
 
